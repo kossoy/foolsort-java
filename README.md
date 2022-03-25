@@ -8,3 +8,4 @@ for (let item of arr) {
     setTimeout(() => console.log(item), item)
 }
 ```
+> Cpp version: https://github.com/kossoy/foolsort
